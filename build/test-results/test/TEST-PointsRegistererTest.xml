@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PointsRegistererTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2019-11-06T14:33:24" hostname="ITBL00260" time="0.002">
+  <properties/>
+  <testcase name="createTopic_NotVipUserAndNoDailyPoints_shouldRegister5" classname="PointsRegistererTest" time="0.0"/>
+  <testcase name="giveLike_NotVipUserAndHasDailyPointsEquals2_shouldRegister4" classname="PointsRegistererTest" time="0.0"/>
+  <testcase name="createCommentary_VipUserAndNoDailyPoints_shouldRegister15" classname="PointsRegistererTest" time="0.0"/>
+  <testcase name="createCommentary_VipUserAndNoDailyPoints_shouldRegister25" classname="PointsRegistererTest" time="0.0"/>
+  <testcase name="giveLike_VipUserAndHasDailyPointsEquals2_shouldRegister20" classname="PointsRegistererTest" time="0.0"/>
+  <testcase name="createCommentary_NotVipUserAndNoDailyPoints_shouldRegister3" classname="PointsRegistererTest" time="0.0"/>
+  <testcase name="createCommentary_NotVipUserAndHasDailyPointsEquals2_shouldRegister6" classname="PointsRegistererTest" time="0.0"/>
+  <testcase name="createTopic_VipUserAndHasDailyPointsEquals2_shouldRegister50" classname="PointsRegistererTest" time="0.0"/>
+  <testcase name="giveLike_NotVipUserAndNoDailyPoints_shouldRegister2" classname="PointsRegistererTest" time="0.0"/>
+  <testcase name="createCommentary_VipUserAndHasDailyPointsEquals2_shouldRegister30" classname="PointsRegistererTest" time="0.0"/>
+  <testcase name="giveLike_VipUserAndNoDailyPoints_shouldRegister10" classname="PointsRegistererTest" time="0.0"/>
+  <testcase name="createTopic_NotVipUserAndHasDailyPointsEquals2_shouldRegister10" classname="PointsRegistererTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
